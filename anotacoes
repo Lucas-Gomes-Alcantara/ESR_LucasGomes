@@ -1,0 +1,5 @@
+git status -> esse comando mostra o estatus atual do meu arquivo
+git add nome arquivo -> esse comando irá adicionar o arquivo modificado no seu repositorio local.
+git add * -> esse comando irá adicionar os arquivos modicados no seu repositorio local.
+git commit -> esse comando irá gravar o seu arquivo(s) no diretorio local.
+git push -> esse comando irá enviar o arquivo(s) para o diretorio remoto.
